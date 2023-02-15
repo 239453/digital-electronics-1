@@ -1,4 +1,5 @@
-# Lab 1: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 1: David_Ecler_239453
+
 
 ### De Morgan's laws
 
