@@ -1,5 +1,4 @@
-# Lab 2: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAMEE
-
+# Lab 2: David_Ecler_239453
 ### 2-bit comparator
 
 1. Karnaugh maps for other two functions of 2-bit comparator:
