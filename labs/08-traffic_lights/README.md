@@ -1,4 +1,4 @@
-# Lab 8: Jakub Chrástek
+# Lab 8: David Ecler
 
 ### Traffic light controller
 
